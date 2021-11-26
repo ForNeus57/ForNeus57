@@ -6,7 +6,7 @@
 * Polish Railway [\[Link\]](https://en.wikipedia.org/wiki/Rail_transport_in_Poland)
 * Programing [\[Link\]](https://en.wikipedia.org/wiki/C_(programming_language))
 * Drawing - you can see my sketch in README file [\[Link\]](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszk)
-
+Link do strony [\[Link\]](https://dominikbreksa.github.io/))
 <!--
 **DominikBreksa/DominikBreksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
