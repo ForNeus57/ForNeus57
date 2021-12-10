@@ -7,6 +7,7 @@
 * Programing [\[Link\]](https://en.wikipedia.org/wiki/C_(programming_language))
 * Drawing - you can see my sketch in README file [\[Link\]](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Pisali-Hello-World-w-przedszk)
 Link do strony [\[Link\]](https://dominikbreksa.github.io/))
+Link do fork-a [\[Link\]](https://github.com/DominikBreksa/Detectron))
 <!--
 **DominikBreksa/DominikBreksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
