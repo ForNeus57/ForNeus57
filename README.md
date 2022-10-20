@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, 👋
 
 #### My name is *Dominik* and I'm a **computer science** student (Freshman) at "AGH University of Science and Technology".
 
