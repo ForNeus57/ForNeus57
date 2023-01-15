@@ -2,7 +2,7 @@
 
 #### My name is *Dominik* and I'm a **computer science** student (second year) at "AGH University of Science and Technology".
 
-#### I study Computer Science and Intelligent Systems at Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering (WEAIiIB)
+#### I study Computer Science and Intelligent Systems at Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering (WEAIiIB).
 
 #### Links to what I'm interested in:
 * Polish Railway [\[Link\]](https://en.wikipedia.org/wiki/Rail_transport_in_Poland)
