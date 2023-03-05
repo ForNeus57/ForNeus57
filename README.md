@@ -1,8 +1,9 @@
 ### Hi there, 👋
 
-#### My name is *Dominik* and I'm a **computer science** student (second year) at "AGH University of Science and Technology".
+#### My name is *Dominik Breksa* and I'm a **computer science** student (second year) at "AGH University of Science and Technology".
 
 #### I study Computer Science and Intelligent Systems at Faculty of Electrical Engineering, Automatics, Computer Science and Biomedical Engineering (WEAIiIB).
+##### Here is a link to my Sylabusy: [\[Link\]](https://sylabusy.agh.edu.pl/pl/1/2/17/1/4/16/140)
 
 #### Links to what I'm interested in:
 * Polish Railway [\[Link\]](https://en.wikipedia.org/wiki/Rail_transport_in_Poland)
