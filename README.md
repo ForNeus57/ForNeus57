@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dominik Breksa</h1>
-A Computer Science and Intelligent Systems student at [AGH University of Science and Technology](https://www.agh.edu.pl/). Here is my Sylabus: [\[LINK\]](https://sylabusy.agh.edu.pl/pl/1/2/17/1/4/16/140)
+<h4 align="left">A Computer Science and Intelligent Systems student at <a href="https://twitter.com/dominikbreksa" target="blank">AGH University of Science and Technology</a>.</h4>
+<h4 align="left">Here is my Sylabus: <a href="https://twitter.com/dominikbreksa" target="blank">[LINK]</a>.</h4>
 
 <h2 align="left">Portfolio:</h2>
 //  Add table
