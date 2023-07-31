@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dominik Breksa</h1>
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h2 align="center">A Computer Science and Intelligent Systems student at AGH University of Science and Technology.</h3>
+
+<h3 align="left">Portfolio:</h3>
+//  Add table
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=forneus57&label=Profile%20views&color=0e75b6&style=flat" alt="forneus57" /> </p>
 
