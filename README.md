@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forneus57&show_icons=true&locale=en" alt="forneus57" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forneus57&" alt="forneus57" /></p>
+
+<details>
+  <summary></summary>
+  
+  Emacs is a great operating system, it's just missing a good text editor.
+</details>
