@@ -1,31 +1,27 @@
-<h1 align="center">Hi 👋, I'm Dominik Breksa</h1>
-<h4 align="left">A Computer Science and Intelligent Systems student at <a href="https://twitter.com/dominikbreksa" target="blank">AGH University of Science and Technology</a>.</h4>
-<h4 align="left">Here is my Sylabus: <a href="https://twitter.com/dominikbreksa" target="blank">[LINK]</a>.</h4>
+<h1 align="center">
+  Hi 👋, I'm Dominik Breksa
+</h1>
+<h4 align="left">
+  A Computer Science and Intelligent Systems student at <a href="https://twitter.com/dominikbreksa" target="blank">AGH University of Science and Technology</a>.
+</h4>
+<h4 align="left">
+  Here is my Sylabus: <a href="https://twitter.com/dominikbreksa" target="blank">[LINK]</a>.
+</h4>
 
 <h2 align="left">
   Portfolio:
 </h2>
 //  Add table
 
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=forneus57&label=Profile%20views&color=0e75b6&style=flat" alt="forneus57" />
 </p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=forneus57" alt="forneus57" /></a> </p>
 
 <p align="left">
   <a href="https://twitter.com/dominikbreksa" target="blank">
     <img src="https://img.shields.io/twitter/follow/dominikbreksa?logo=twitter&style=for-the-badge" alt="dominikbreksa" />
   </a>
 </p>
-
-- 🔭 I’m currently working on [ISP](https://github.com/ForNeus57/ISP)
-
-- 🌱 I’m currently learning **django, WPF.NET**
-
-- 📫 How to reach me **dominikbreksa@gmail.com**
 
 <h2 align="left">
   Connect with me:
@@ -99,13 +95,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=forneus57&show_icons=true&locale=en&layout=compact" alt="forneus57" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forneus57&show_icons=true&locale=en" alt="forneus57" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forneus57&" alt="forneus57" /></p>
 
 <details>
   <summary></summary>
