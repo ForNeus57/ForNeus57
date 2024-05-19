@@ -8,11 +8,12 @@
   Here is my Sylabus: <a href="https://twitter.com/dominikbreksa" target="blank">[LINK]</a>.
 </h4>
 
+<!--
 <h2 align="left">
   Portfolio:
 </h2>
 //  Add table
-
+-->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=forneus57&label=Profile%20views&color=0e75b6&style=flat" alt="forneus57" />
 </p>
