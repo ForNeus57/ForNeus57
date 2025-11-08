@@ -4,9 +4,6 @@
 <h4 align="left">
   A Computer Science and Intelligent Systems student at <a href="https://twitter.com/dominikbreksa" target="blank">AGH University of Science and Technology</a>.
 </h4>
-<h4 align="left">
-  Here is my Sylabus: <a href="https://twitter.com/dominikbreksa" target="blank">[LINK]</a>.
-</h4>
 
 <!--
 <h2 align="left">
@@ -22,9 +19,6 @@
   Connect with me:
 </h2>
 <p align="left">
-  <a href="https://fb.com/dominik.breksa.9" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dominik.breksa.9" height="30" width="40" />
-  </a>
   <a href="https://www.hackerrank.com/ForNeus57" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ForNeus57" height="30" width="40" />
   </a>
